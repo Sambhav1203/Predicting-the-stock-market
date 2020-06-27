@@ -21,10 +21,10 @@ In this project I have worked on a csv file containing index prices.  Each row i
 The model train on the data from 1950-2012 and make predictions from 2013-2015.
 <br/>
 Indicators used for training are:<br/>
-Markup : * The average price from the past 5 days.
-         * The average price for the past 30 days.
-         * The average price for the past 365 days.
-         * The ratio between the average price for the past 5 days, and the average price for the past 365 days.
-         * The standard deviation of the price over the past 5 days.
-         * The standard deviation of the price over the past 365 days.
-         * The ratio between the standard deviation for the past 5 days, and the standard deviation for the past 365 days.
+* The average price from the past 5 days.
+* The average price for the past 30 days.
+* The average price for the past 365 days.
+* The ratio between the average price for the past 5 days, and the average price for the past 365 days.
+* The standard deviation of the price over the past 5 days.
+* The standard deviation of the price over the past 365 days.
+* The ratio between the standard deviation for the past 5 days, and the standard deviation for the past 365 days.
